@@ -1,0 +1,17 @@
+{
+    "papers": [
+      {
+        "title": "Implicit Neural Multiple Description for DNA-based Data Storage",
+        "authors": ["Daniella Bar-Lev", "Itai Orr", "Omer Sabary", "Tuvi Etzion", "Eitan Yaakobi"],
+        "abstract": "This paper introduces a modular and holistic approach combining Deep Neural Networks, Multiple Description Coding, and quaternary Shannon Fano Entropy Coder for data storage in DNA. The model is implemented with an auto-regressive model and a synthesis model, optimized through training and post-training phases to store information as weights encoded in DNA oligos. The use of a constrained quaternary entropy coder adapts to biochemical constraints, offering a scalable solution to DNA storage, thereby mimicking neural weights encoding.",
+        "url": "https://ar5iv.org/abs/2309.06956"
+      },
+      {
+        "title": "Deep DNA Storage: Scalable and Robust DNA Storage via Coding Theory and Deep Learning",
+        "authors": ["Daniella Bar-Lev", "Itai Orr", "Omer Sabary", "Tuvi Etzion", "Eitan Yaakobi"],
+        "abstract": "This work presents a scalable approach for storing digital information in DNA molecules using Deep Neural Networks trained on simulated data, along with Tensor-Product based Error-Correcting Codes and a safety margin mechanism. The approach aims to mitigate data retrieval challenges and improve scalability and robustness for DNA storage. The integration of coding theory with deep learning significantly improves speed, accuracy, and resilience to high noise environments.",
+        "url": "https://ar5iv.org/abs/2109.00031"
+      }
+    ]
+  }
+  
